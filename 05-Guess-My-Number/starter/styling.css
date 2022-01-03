@@ -1,0 +1,19 @@
+header {
+  background-color: lightblue;
+}
+
+body {
+  font-family: 'Press Start 2P', sans-serif;
+  color: #eee;
+  background-color: #222;
+  /* background-color: #60b347; */
+}
+
+.btn {
+  background-color: lightblue;
+}
+
+.btn:hover {
+  background-color: lightgray;
+}
+/*# sourceMappingURL=styling.css.map */
